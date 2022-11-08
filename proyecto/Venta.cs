@@ -9,6 +9,6 @@ namespace proyecto
     internal class Venta
     {
         private int id;
-        private string comentario;
+        private string comentarios;
     }
 }
