@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace proyecto
 {
-    internal class ProductoVendido
+    public class ProductoVendido
     {
         private int id;
         private int idProducto;

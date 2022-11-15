@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace proyecto
 {
-    internal class Venta
+    public class Venta
     {
         private int id;
         private string comentarios;
